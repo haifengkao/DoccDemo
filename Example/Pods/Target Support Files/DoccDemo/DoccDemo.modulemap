@@ -1,0 +1,6 @@
+framework module DoccDemo {
+  umbrella header "DoccDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

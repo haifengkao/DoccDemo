@@ -1,0 +1,24 @@
+{
+  "name": "DoccDemo",
+  "version": "0.1.0",
+  "summary": "A short description of DoccDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/haifengkao/DoccDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hai Feng Kao": "haifeng@cocoaspice.in"
+  },
+  "source": {
+    "git": "https://github.com/haifengkao/DoccDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "swift_versions": "5",
+  "source_files": "DoccDemo/Classes/**/*",
+  "swift_version": "5"
+}

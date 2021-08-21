@@ -1,0 +1,16 @@
+PODS:
+  - DoccDemo (0.1.0)
+
+DEPENDENCIES:
+  - DoccDemo (from `../`)
+
+EXTERNAL SOURCES:
+  DoccDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DoccDemo: 40f075770b6ddc76cbbd8b616626459f88167f01
+
+COCOAPODS: 1.10.2
+
+PODFILE CHECKSUM: 4e6d3242e1e74193581a426ff97b03b423fe4bf9
